@@ -1,0 +1,241 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Rubik", sans-serif;
+}
+.cantener{
+    margin: 0 auto;
+    width: 1446px;
+    background-color: #F9FAFF ;
+}
+.father_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    position: relative;
+    left: 370px;
+    top: 50px;
+}
+.father_1 a{
+    color: #363853;
+    transition: 0.5s;
+}
+.father_1 a:hover{
+    color: #FF6838;
+}
+.img_2{
+    position: relative;
+    top: 60px;
+    left: 50px;
+}
+.button_item{
+    padding: 10px;
+    background-color: #FF6838;
+}
+.button_item_2{
+    padding: 10px;
+    background-color: #FF6838;
+}
+span{
+    color: #FF6838;
+}
+.father_414{
+    position: relative;
+    top: 200px;
+    left: 50px;
+}
+u{
+    position: relative;
+    left: 20px;
+}
+.img_tree{
+    position: relative;
+    left: 650px;
+    bottom: 170px;
+}
+.MBAPPE{
+    width: 176px;
+    height: 58px;
+    color: white;
+    background-color: #FF6838;
+    border-radius: 20px 20px 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.belingham{
+    position: relative;
+    bottom: 580px;
+    left: 800px;
+}
+.neymar_jr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 400px;
+}
+.img_full{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 300px;
+    gap: 30px;
+}
+.titan{
+    border-radius: 30px 0px 0px 0px;
+}
+.gugu{
+    width: 361px;
+    height: 150px;
+    background-color: #FFFFFF;
+    position: relative;
+    bottom: 150px;
+    right: 390px;
+    border-radius: 0px 0px 30px 0px;
+}
+.what{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 150px;
+    border-radius: ;
+}
+.vini{
+    border: none;
+    background-color: #FF6838;
+    border-radius: 20px 20px 0px 20px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #FFFFFF;
+}
+.peni{
+    color: #363853;
+}
+h3{
+    color: #363853;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.peni{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.vini{
+    position: relative;
+    left: 220px;
+}
+.gugu_102{
+    width: 361px;
+    height: 150px;
+    background-color: #FFFFFF;
+    position: relative;
+    bottom: 300px;
+    border-radius: 0px 0px 30px 0px;
+}
+.gugu_103{
+    width: 361px;
+    height: 150px;
+    background-color: #FFFFFF;
+    position: relative;
+    bottom: 450px;
+    left: 390px;
+    border-radius: 0px 0px 30px 0px;
+}
+.huhu{
+    color: #363853;
+}
+.haha{
+    color: #363853;
+}
+.father_real{
+    position: relative;
+    bottom: 350px;
+    left: 150px;
+}
+.work{
+    position: relative;
+    bottom: 670px;
+    left: 600px;
+}
+.yuta{
+    position: relative;
+    left: 20px;
+}
+.yujii{
+    width: 1170px;
+    height: 312px;
+    background-color: #FF6838;
+    border-radius: 20px;
+    margin: auto;
+    position: relative;
+    bottom: 500px;
+}
+.ifififif{
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.over{
+    width: 838.5px;
+    height: 78px;
+    background-color: #FFFFFF;
+    border-radius: 70px;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}
+.nanami{
+    width: 191.1px;
+    height: 58.5px;
+    background-color: #FF6838;
+    border-radius: 70px;
+    margin: auto;
+    position: relative;
+    top: 10px;
+    left: 310px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+.urra{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    color: #363853;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
